@@ -1,0 +1,21 @@
+.card{
+    width: auto;
+    
+}
+
+.main-container, .section-1 .section-2, .section-3 .projects{
+    display: flex;
+    border: 1px solid rgb(104, 102, 102);
+    margin: 20px;
+    padding: 50px;
+    width:auto;
+    background-color: rgb(147, 163, 152);
+
+}
+
+.section-3{
+    padding: 10px;
+    
+}
+
+
