@@ -15,7 +15,10 @@
 
 .section-3{
     padding: 10px;
+    position:absolute;
     
 }
 
-
+#profile{
+    width: 900px;
+}
