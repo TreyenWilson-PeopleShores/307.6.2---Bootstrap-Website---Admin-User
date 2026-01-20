@@ -1,5 +1,5 @@
 .card{
-    width: auto;
+   height: 50px;
     
 }
 
@@ -19,6 +19,3 @@
     
 }
 
-#profile{
-    width: 900px;
-}
