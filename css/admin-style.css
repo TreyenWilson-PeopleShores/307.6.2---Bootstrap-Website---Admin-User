@@ -1,12 +1,11 @@
 .card{
     width: auto;
-    color: aquamarine;
-
+    
 }
 
 .main-container, .section-1 .section-2, .section-3{
     display: flex;
-    border: 1px solid rgb(185, 185, 185);
+    border: 1px solid rgb(104, 102, 102);
     margin: 20px;
     padding: 50px;
     width:auto;
